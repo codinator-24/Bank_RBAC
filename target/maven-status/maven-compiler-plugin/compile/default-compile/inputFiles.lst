@@ -1,1 +1,7 @@
 /home/dana/rbac-gui/src/main/java/com/bankapp/App.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/ui/AccountPanel.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/ui/AuditPanel.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/ui/LoginDialog.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/ui/MainFrame.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/ui/RoleAdminPanel.java
+/home/dana/rbac-gui/src/main/java/com/bankapp/util/DbUtil.java
