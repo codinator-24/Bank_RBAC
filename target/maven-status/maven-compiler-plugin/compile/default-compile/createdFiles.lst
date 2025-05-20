@@ -1,5 +1,6 @@
 com/bankapp/ui/LoginDialog.class
 com/bankapp/util/DbUtil.class
+com/bankapp/ui/AuditPanel$1.class
 com/bankapp/ui/MainFrame.class
 com/bankapp/ui/AuditPanel.class
 com/bankapp/ui/RoleAdminPanel.class
