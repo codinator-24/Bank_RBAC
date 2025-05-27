@@ -35,6 +35,7 @@ public class MainFrame extends JFrame {
 
         // Only DBA gets RoleAdmin
         if (roles.contains("dba")) {
+            tabs.addTab("User Admin", new UserAdminPanel(conn));
             tabs.addTab("Role Admin", new RoleAdminPanel(conn));
         }
 
@@ -45,7 +46,7 @@ public class MainFrame extends JFrame {
 
         getContentPane().add(tabs);
 
-                // — Build Menu Bar —
+        // — Build Menu Bar —
         JMenuBar menuBar = new JMenuBar();
         JMenu fileMenu = new JMenu("File");
         JMenuItem logoutItem = new JMenuItem("Logout");
@@ -73,7 +74,7 @@ public class MainFrame extends JFrame {
                 }
             });
         });
-        
+
     }
 
     private void loadUserRoles() {

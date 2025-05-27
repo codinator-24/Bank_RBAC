@@ -4,4 +4,5 @@
 /home/dana/Bank_RBAC/src/main/java/com/bankapp/ui/LoginDialog.java
 /home/dana/Bank_RBAC/src/main/java/com/bankapp/ui/MainFrame.java
 /home/dana/Bank_RBAC/src/main/java/com/bankapp/ui/RoleAdminPanel.java
+/home/dana/Bank_RBAC/src/main/java/com/bankapp/ui/UserAdminPanel.java
 /home/dana/Bank_RBAC/src/main/java/com/bankapp/util/DbUtil.java
